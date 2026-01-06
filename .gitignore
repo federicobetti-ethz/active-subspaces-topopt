@@ -1,0 +1,16 @@
+*.h5
+*.xdmf
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.eps
+*.pdf
+.cache/
+.bash_history
