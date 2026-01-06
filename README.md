@@ -1,1 +1,1 @@
-# active-subspaces-topopt
+# Active subspaces in topology optimization
